@@ -5,3 +5,7 @@ AssertEquals : compare expected and reality :
   
 # Maven SureFire
 Helps to execute Junit files using maven commend
+
+# Lifecycle Hooks
+Determines method to run each time before execution
+1) @BeforeAll 2)@AfterAll 3)@BeforeEach 4)@AfterEach
