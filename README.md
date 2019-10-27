@@ -41,3 +41,5 @@ Test multiple time
 # Tagging tests with @Tag : add preference
 https://youtu.be/0m-vtBB66cI?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o
 
+# TestInfo and TestReporter
+https://youtu.be/tTbBXf9Uh0s?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o
