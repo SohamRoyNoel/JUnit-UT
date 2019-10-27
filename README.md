@@ -20,6 +20,7 @@ Determines method to run each time before execution
 
 # Conditional executions and assumptions
 executions : Verifies and executes if the condition is satisfied.
+
 assumptions : handling external factors
 
 # AssertAll 
