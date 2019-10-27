@@ -34,3 +34,6 @@ Uses lambda : https://youtu.be/-K2UBjMM23U?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa
 # Supplier for assert messages
 It allows to write a lambda expression as soon as the MATHOD Fails; rather building the part again and again
 https://youtu.be/S-hk1jFdZfA?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o
+
+# RepeatedTest
+Test multiple time
