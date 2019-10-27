@@ -16,5 +16,11 @@ Determines method to run each time before execution
 
 # DisplayName and Disabled annotations 
 @DisplayName : Changes the name of a test Method : Easy to Identify error
-
 @Disabled : makes the JUnit skips the method 
+
+# Conditional executions and assumptions
+executions : Verifies and executes if the condition is satisfied.
+assumptions : handling external factors
+
+# AssertAll 
+Uses lambda : https://youtu.be/-K2UBjMM23U?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o
