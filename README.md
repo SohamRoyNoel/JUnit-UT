@@ -26,3 +26,11 @@ assumptions : handling external factors
 
 # AssertAll 
 Uses lambda : https://youtu.be/-K2UBjMM23U?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o
+
+# Nesting : grouping test cases
+1) Executes all
+2) Executes group
+
+# Supplier for assert messages
+It allows to write a lambda expression as soon as the MATHOD Fails; rather building the part again and again
+https://youtu.be/S-hk1jFdZfA?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o
